@@ -1,0 +1,11 @@
+h1 {
+    color: orange;
+    border: 3px solid gray;
+    border-radius: 20px;
+    padding: 30px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+   width: 325px;
+   height: 20px;
+}
